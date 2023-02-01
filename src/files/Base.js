@@ -114,7 +114,7 @@ function Base({children}){
           <p className="text" onClick={()=>history.push("/charts")}>Charts</p>
         </div>
         <div>
-          <p className="text">Tables</p>
+          <p className="text" onClick={()=>history.push("/table")}>Tables</p>
         </div>
         <hr />
 

@@ -14,6 +14,7 @@ import Others from './files/Utilities/other';
 import ErrorPage from './files/componentpages/ErrorPage';
 import BlankPage from './files/componentpages/Blankpage';
 import Charts from './files/Charts';
+import TablesReact from './files/Tables';
 
 
 function App() {
@@ -56,8 +57,11 @@ function App() {
       <Route path = "/blankpage">
         <BlankPage/>
       </Route>
-      <Route Path ="/charts">
+      <Route path ="/charts">
         <Charts/>
+      </Route>
+      <Route path ="/table">
+        <TablesReact/>
       </Route>
      </Switch>
      </div>
