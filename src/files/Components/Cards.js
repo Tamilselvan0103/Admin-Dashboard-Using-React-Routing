@@ -80,7 +80,7 @@ function Cards() {
 }
 export default Cards;
 
-function Cards1(props) {
+export function Cards1(props) {
   return (
     <div className="card1">
       <div className={props.class1}>
@@ -90,6 +90,7 @@ function Cards1(props) {
     </div>
   );
 }
+
 
 function Cards2(props) {
   return (

@@ -111,7 +111,7 @@ function Base({children}){
           </Dropdown>
         </div>
         <div>
-          <p className="text">Charts</p>
+          <p className="text" onClick={()=>history.push("/charts")}>Charts</p>
         </div>
         <div>
           <p className="text">Tables</p>

@@ -13,6 +13,7 @@ import Colors from './files/Utilities/Colors';
 import Others from './files/Utilities/other';
 import ErrorPage from './files/componentpages/ErrorPage';
 import BlankPage from './files/componentpages/Blankpage';
+import Charts from './files/Charts';
 
 
 function App() {
@@ -54,6 +55,9 @@ function App() {
       </Route>
       <Route path = "/blankpage">
         <BlankPage/>
+      </Route>
+      <Route Path ="/charts">
+        <Charts/>
       </Route>
      </Switch>
      </div>
