@@ -1,0 +1,36 @@
+.name{
+    gap:1rem;
+    
+    display: flex;
+}
+.psw{
+    gap:1rem;
+    
+    display: flex;
+}
+.logincards1{
+    background-color: white;
+    box-shadow: 5px 5px 15px rgb(246, 242, 242),
+                -5px -5px -15px rgb(246, 242, 242);
+    height: fit-content;
+    width: fit-content;
+    margin: auto;
+    padding: 3rem;
+    border-radius: 0.5rem;
+}
+.Forgetcard{
+    background-color: white;
+    box-shadow: 5px 5px 15px rgb(246, 242, 242),
+                -5px -5px -15px rgb(246, 242, 242);
+    height: fit-content;
+    width: 30rem;
+    margin: auto;
+    padding: 3rem;
+    border-radius: 0.5rem;
+}
+.ForgetMain{
+    background-color:rgba(15, 110, 244, 0.944); 
+    width: 100vw;
+    min-height: 100vh;
+    padding: 10rem;
+}

@@ -1,0 +1,51 @@
+.card1 {
+  height: 5rem;
+  width: 15rem;
+  border-radius: 0.5rem;
+  display: flex;
+  background-color: white;
+  margin: 1rem;
+  gap: 3rem;
+}
+.aside1 {
+  border-left:5px solid rgb(75, 72, 249);
+  border-radius: 0.5rem;
+}
+.cardsmain {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.aside2 {
+  border-left:5px solid rgb(108, 238, 108);
+  border-radius: 0.5rem;
+}
+.aside3 {
+  border-left:5px solid rgb(92, 244, 247);
+  border-radius: 0.5rem;
+}
+.aside4 {
+  border-left:5px solid rgb(246, 232, 104);
+  border-radius: 0.5rem;
+}
+.duration1 {
+  color: rgb(75, 72, 249);
+  margin-left: 1rem;
+  
+}
+.duration2 {
+  color: rgb(108, 238, 108);
+  margin-left: 1rem;
+}
+.duration3 {
+  color: rgb(92, 244, 247);
+  margin-left: 1rem;
+}
+.duration4 {
+  color: rgb(246, 232, 104);
+  margin-left: 1rem;
+}
+.card2 {
+  display: flex;
+  flex-wrap: wrap;
+}

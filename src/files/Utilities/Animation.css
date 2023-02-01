@@ -1,0 +1,16 @@
+.link {
+  display: none;
+}
+.red {
+  color: red;
+}
+.anicards {
+  display: flex;
+  flex-wrap: wrap;
+}
+.anihead {
+  color: rgb(73, 73, 245);
+  font-size: larger;
+  font-weight: 500;
+  margin-top: 0px;
+}

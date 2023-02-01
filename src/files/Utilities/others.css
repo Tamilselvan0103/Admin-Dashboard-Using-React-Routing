@@ -1,0 +1,13 @@
+.none {
+  display: none;
+  border: 1px solid red;
+}
+.othercard {
+  display: flex;
+  flex-wrap: wrap;
+}
+.title {
+  color: blue;
+  margin: 0.5rem;
+  font-size: larger;
+}

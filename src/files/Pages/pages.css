@@ -1,0 +1,61 @@
+.logincards{
+    background-color: white;
+    box-shadow: 5px 5px 15px rgb(246, 242, 242),
+                -5px -5px -15px rgb(246, 242, 242);
+    height: fit-content;
+    width: 50rem;
+    margin: auto;
+
+    
+    padding: 3rem;
+    border-radius: 0.5rem;
+}
+.input{
+    display: flex;
+    flex-direction: column;
+}
+.mail{
+    border-radius: 1rem;
+    height: 2rem;
+    text-align: center;
+    padding: 1.2rem;
+    border: 1px solid rgb(193, 190, 190);
+    margin-top: 1rem;
+}
+.checkbox{
+    display: flex;
+    gap: 0.5rem;
+}
+.btn5{
+    border-radius: 1rem;
+    height: 2.2rem;
+    border: 1px solid rgb(193, 190, 190);
+    margin-top: 1rem;
+}
+.letter{
+    font-weight: bolder;
+    margin: 5px;
+}
+#lightblue{
+background-color: rgba(15, 110, 244, 0.944);
+color: white;
+}
+#red{
+    background-color: red;
+    color: white;
+}
+#blue{
+    background-color: rgb(67, 67, 151);
+    color: white;
+
+}
+.footer{
+    color: rgb(116, 116, 241);
+}
+.registermain{
+    background-color:rgba(15, 110, 244, 0.944); 
+    width: 100vw;
+    min-height: 100vh;
+    padding: 3rem;
+
+}

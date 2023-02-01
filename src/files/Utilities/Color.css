@@ -1,0 +1,172 @@
+.para {
+  font-size: 20px;
+  color: rgb(55, 54, 54);
+}
+.clr {
+  background-color: rgb(74, 71, 71);
+  height: 4rem;
+  color: white;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.font1 {
+  font-size: 12px;
+  color: rgb(128, 126, 126);
+}
+.clr1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.clr3 {
+  height: 6rem;
+  background-color: rgb(104, 104, 241);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.clr4 {
+  height: 6rem;
+  background-color: rgb(114, 112, 112);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.clr5 {
+  height: 6rem;
+  background-color: rgb(168, 231, 179);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.clr6 {
+  height: 6rem;
+  background-color: rgb(116, 215, 246);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.clr7 {
+  height: 6rem;
+  background-color: orange;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.clr8 {
+  height: 6rem;
+  background-color: red;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.clr9 {
+  height: 6rem;
+  background-color: rgb(185, 185, 243);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.clr10 {
+  height: 6rem;
+  background-color: rgb(81, 79, 79);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.clr11 {
+  height: 6rem;
+  background-color: rgb(245, 240, 240);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.clr12 {
+  height: 6rem;
+  background-color: rgb(217, 215, 215);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.clr13 {
+  height: 6rem;
+  background-color: rgb(195, 191, 191);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.clr14 {
+  height: 6rem;
+  background-color: rgba(122, 118, 118, 0.66);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.clr15 {
+  height: 6rem;
+  background-color: rgba(122, 118, 118, 0.66);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.clr16 {
+  height: 6rem;
+  background-color: rgba(122, 118, 118, 0.66);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.clr17 {
+  height: 6rem;
+  background-color: rgb(110, 108, 108);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.clr18 {
+  height: 6rem;
+  background-color: rgb(81, 79, 79);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.clr19 {
+  height: 6rem;
+  background-color: rgb(81, 79, 79);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.card5 {
+  width: 30rem;
+  height: fit-content;
+}
