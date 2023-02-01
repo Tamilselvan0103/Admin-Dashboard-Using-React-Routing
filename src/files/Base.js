@@ -25,7 +25,7 @@ function Base({children}){
                 style={{ maxHeight: "100px" }}
                 navbarScroll
               >
-                <Nav.Link>Account</Nav.Link>
+                <Nav.Link onClick={()=>history.push("/register")}>Register</Nav.Link>
                 <Nav.Link onClick={()=>history.push("/login")}>Login</Nav.Link>
               </Nav>
               <Form className="d-flex">
