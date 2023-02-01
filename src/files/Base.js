@@ -105,8 +105,8 @@ function Base({children}){
               <Dropdown.Item  onClick={()=>history.push("/register")}>Register</Dropdown.Item>
               <Dropdown.Item  onClick={()=>history.push("/forgot")}>ForgotPassword</Dropdown.Item>
               <p className="text-muted head" onClick={()=>history.push("/")}>OTHER PAGES:</p>
-              <Dropdown.Item  onClick={()=>history.push("/")}>404 Page</Dropdown.Item>
-              <Dropdown.Item  onClick={()=>history.push("/")}>Blank page</Dropdown.Item>
+              <Dropdown.Item  onClick={()=>history.push("/error")}>404 Page</Dropdown.Item>
+              <Dropdown.Item  onClick={()=>history.push("/blankpage")}>Blank page</Dropdown.Item>
             </Dropdown.Menu>
           </Dropdown>
         </div>

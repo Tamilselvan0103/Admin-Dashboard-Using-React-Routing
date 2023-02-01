@@ -4,14 +4,15 @@ import './App.css';
 import ButtonCards from './files/Components/Buttons';
 import Cards from './files/Components/Cards';
 import Dashboard from './files/Dashboard';
-import ForgotPassword from './files/Pages/Forgotpassword';
-import Loginpages from './files/Pages/Login';
-import Register from './files/Pages/Register';
+import ForgotPassword from './files/componentpages/Forgotpassword';
+import Loginpages from './files/componentpages/Login';
+import Register from './files/componentpages/Register';
 import Animation from './files/Utilities/Animation';
 import Border from './files/Utilities/Borders';
 import Colors from './files/Utilities/Colors';
 import Others from './files/Utilities/other';
-
+import ErrorPage from './files/componentpages/ErrorPage';
+import BlankPage from './files/componentpages/Blankpage';
 
 
 function App() {
@@ -47,6 +48,12 @@ function App() {
       </Route>
       <Route path="/forgot">
         <ForgotPassword/>
+      </Route>
+      <Route path ="/error">
+      <ErrorPage/>
+      </Route>
+      <Route path = "/blankpage">
+        <BlankPage/>
       </Route>
      </Switch>
      </div>

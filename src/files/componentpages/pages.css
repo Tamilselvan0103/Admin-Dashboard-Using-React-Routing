@@ -59,3 +59,14 @@ color: white;
     padding: 3rem;
 
 }
+.pageno{
+    font-size: 8rem;
+}
+.Pageserror{
+    margin: 2rem 0 0rem 30rem;
+    font-size: large;
+}
+.blankpage{
+    font-size: 4rem;
+    font-weight:lighter;
+}
